@@ -11,6 +11,10 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+<<<<<<< HEAD
     //666
+=======
+    //这食分支1
+>>>>>>> fenzhi
     return 0;
 }
